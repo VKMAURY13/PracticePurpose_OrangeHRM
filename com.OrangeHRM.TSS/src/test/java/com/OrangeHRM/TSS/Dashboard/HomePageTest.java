@@ -2,7 +2,7 @@ package com.OrangeHRM.TSS.Dashboard;
 
 import org.testng.annotations.Test;
 
-public class AdminLinkTest {
+public class HomePageTest {
 	
 	@Test
 	public void getAdminTest()
