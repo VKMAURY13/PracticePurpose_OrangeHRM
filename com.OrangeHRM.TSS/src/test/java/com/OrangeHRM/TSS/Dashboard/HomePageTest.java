@@ -14,5 +14,10 @@ public class HomePageTest {
 	{
 		System.out.println("Product Information Management is completed");
 	}
+	
+	public void getLeave_Information_Managementtest()
+	{
+		System.out.println("Leave Information Management is completed");
+	}
 
 }
